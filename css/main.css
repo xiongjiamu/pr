@@ -961,9 +961,9 @@ nav.nav ul.pc {
 @media (min-width: 1200px) {
   #register .card {
     float: left;
-    width: 360px;
+    width: 320px;
     border: 15px solid #44b89d;
-    margin: 0 30px 0 0;
+    margin: 0 15px 0 0;
   }
   #register .card:last-child {
     margin: 0;
